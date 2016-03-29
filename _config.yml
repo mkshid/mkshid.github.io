@@ -9,11 +9,13 @@
 title: mkshid
 email: mkshid@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A blog about things i do and i love. 
+  A blog about things i do and i love.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mkshid.me" # the base hostname & protocol for your site
 twitter_username: mkshid
 github_username:  mkshid
+
+profile_pic: 'assets/images/profile_pic.jpg'
 
 # Build settings
 markdown: kramdown
