@@ -240,3 +240,25 @@
         }
     }
 }
+
+
+.col{
+  width: 100%;
+  height: 100%;
+  float: left;
+  object-fit: cover;
+  box-sizing:border-box;
+  padding: $img_spacing;
+}
+.right{
+  float: right;
+}
+.one {
+  width:33.33%;
+}
+.two {
+  width: 66.66%;
+}
+.three{
+  width: 100%;
+}
