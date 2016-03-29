@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 ---
 
-<img class="col one right" src="/{{site.profile_pic}}">
+<img class="col one right" src="{{site.url}}/{{site.profile_pic}}">
 
 Hi! I am M. Hassan Khurshid (aka: Hassan) a developer working in Florence
 at Frigel. I have a bachelor degree in Computer Science at
