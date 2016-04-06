@@ -3,6 +3,7 @@ layout: post
 title:  "Just Start!!"
 date:   2016-04-05 22:02:00 +0100
 categories: intro python django genropy
+description: First post ever yeah!!!
 ---
 
 First post ever yeah!!!!! Finally i get start with something!
