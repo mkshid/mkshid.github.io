@@ -9,7 +9,7 @@ First post ever yeah!!!!! Finally i get start with something!
 
 This blog won't be only a code blog (i am not that good :D).
 
-6 months ago a started a new job at
+6 months ago i started a new job at
 [Frigel IES](http://www.iesfrigel.com) a branch of
 the main company where i am working now
 [Frigel Firenze](http://www.frigel.com) as
@@ -20,10 +20,10 @@ the name says it is in Florence (Italy).
 
 I have been working for [Frigel IES](http://www.iesfrigel.com)
 remotely from [Frigel Firenze](http://www.frigel.com).
-In this 6 months i have done a lot of different things
-(i think):
+In this 6 months i have done a lot (i think) of different tasks:
+
   -  Repairing computer as it one of duties of an IT
-  -  Creating a the company website
+  -  Creating the company website (the Frigel IES one)
   -  Creating a platform in [Genropy](http://www.genropy.org)
   -  Deploying the platform
   -  etc
