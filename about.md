@@ -6,9 +6,9 @@ permalink: /about/
 
 <img class="col one right" src="/{{site.profile_pic}}">
 
-Hi! I am M. Hassan Khurshid (aka: Hassan) a developer working in Florence
+Hi! I am M. Hassan Khurshid (aka: Hassan) a web developer working in Florence
 at Frigel. I have a bachelor degree in Computer Science at
-University of Florence. After the graduation i mainly worked as web developer.
+University of Florence. After the graduation i have mainly worked as web developer.
 The main language i work with is python (i love it) and always trying to
 improve in it.
 
