@@ -12,8 +12,9 @@ free time check it out at [http://genrello.mkshid.me](http://genrello.mkshid.me)
 If you want a personal account let me know it through an email,
 
 For a quick test use the following credentials:
-  - username: demo
-  - password: demo
+
+  -  username: demo
+  -  password: demo 
 
 Have fun and let me know what do you think about!!
 
