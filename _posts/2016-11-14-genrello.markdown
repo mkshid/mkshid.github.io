@@ -11,11 +11,13 @@ I created a platform like [Trello](https://trello.com/), with genropy in my
 free time check it out at [http://genrello.mkshid.me](http://genrello.mkshid.me).
 If you want a personal account let me know it through an email,
 
-For a quick test use the one written in the login form.
+For a quick test use the following credentials:
+  - username: demo
+  - password: demo
 
-Let me know what do you think about!!
+Have fun and let me know what do you think about!!
 
-Ah it is open source you can find the code at [https://github.com/mkshid/genrello](https://github.com/mkshid/genrello) .
+Ah it is open source you can find the code at [https://github.com/mkshid/genrello](https://github.com/mkshid/genrello).
 
-I hope you will like it! let me know!!
+I hope you will like it!
 bye!!
