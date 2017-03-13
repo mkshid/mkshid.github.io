@@ -11,7 +11,7 @@ email: mkshid@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A blog about things i do and i love.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://mkshid.me" # the base hostname & protocol for your site
+url: "http://mkshid.com" # the base hostname & protocol for your site
 permalink: /:title/
 
 twitter_username: mkshid
