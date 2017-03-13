@@ -183,7 +183,7 @@ in this case `gnrdbsetup genrello`.
 
 As first part i think it is enough.
 
-The code of the othres models can be found [here](
+The code of the others models can be found [here](
 https://github.com/mkshid/genrello/tree/master/packages/base/model
 )
 
